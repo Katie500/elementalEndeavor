@@ -1,8 +1,8 @@
-Title: Elemental Endeavor: Earth, Fire, Water
+Title: Elemental Endeavor: Earth, Water, Fire
 
 Target Platform: Designed for both desktop and mobile
 
-Game Genre: This game is a strategy game between to players similar to Tic-Tac-Toe.
+Game Genre: This game is a strategy game between two players similar to Tic-Tac-Toe.
 
 How To Play: 
 
@@ -12,7 +12,7 @@ Each player has a set of elemental options, with three different elements: fire,
 Gameplay:
 Players take turns placing one of their elemental tokens on an empty* space in the grid.
 Instead of the traditional "X" and "O," they place their elemental tokens with the respective elements on them.
-*A player may replace an opponent's token with their own if the their token defeats their opponent's token, but a player cannot play on a space that was played upon in the previous round.
+*A player may replace an opponent's token with their own if their token defeats their opponent's token, but a player cannot play on a space that was played upon in the previous round.
 
 Elemental Interactions:
 Each element has strengths and weaknesses against the others, creating a tactical aspect to the game. 
